@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @rfjordan
+- 👀 I’m interested in making site that has games for school or work
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on maybe a proxy...
+- 📫 How to reach me Discord: rhett_jordan#0199
+- Email: frogedition@gmail.com
